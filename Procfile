@@ -1,1 +1,1 @@
-worker: python telegram_media_downloader_bot.py.
+worker: python telegram_media_downloader_bot.py
